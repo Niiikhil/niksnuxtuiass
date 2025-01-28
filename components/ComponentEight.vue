@@ -19,7 +19,7 @@
         <!-- Right Section -->
         <div class="col-md-6 d-flex justify-content-center align-items-center">
           <img
-            src="/static/right.png"
+            src="/static/right_side_img.png"
             alt="Teach students worldwide demo"
             class="img-fluid"
           />
